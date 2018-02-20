@@ -13,7 +13,7 @@ public class App
     	Integer C;
         System.out.println( "Hello World Deep123567!" );
         System.out.println( "Deep123567!" );
-        System.out.println( "abcdef!" );
+     
         System.out.println(C=A+B);
         System.out.println(C=A*B);
     }
